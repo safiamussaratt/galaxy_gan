@@ -1,0 +1,38 @@
+{
+  "config": {
+    "img": 32,
+    "T": 500,
+    "train_min": 30,
+    "gan_min": 20.0,
+    "n_gen": 2100,
+    "n_ref": 5000
+  },
+  "ddpm_training": {
+    "steps": 39794,
+    "ema_decay": 0.9995,
+    "minutes": 20.0
+  },
+  "ddpm_sampling": {
+    "sampler": "ancestral, 500 steps",
+    "n": 2100,
+    "minutes": 2.3
+  },
+  "dcgan_training": {
+    "steps": 19805,
+    "minutes": 20.0
+  },
+  "fid": {
+    "real_floor": 4.429355944885174,
+    "ddpm": 17.55286249963055,
+    "gan": 56.99652240695167
+  },
+  "sgd_style_sum": {
+    "real_floor": 0.8446,
+    "ddpm": 2.0339,
+    "gan": 15.2889
+  },
+  "inpainting_MAE_on_trail_pixels": {
+    "ddpm_inpainting": 0.0245,
+    "naive_median_fill": 0.0902
+  }
+}

@@ -1,0 +1,6 @@
+property,W1_real_floor,W1_ddpm,W1_gan,d_ddpm,d_gan
+total flux,0.8208,1.9922,15.1583,0.080,0.628
+half-light radius,0.0229,0.0407,0.1201,0.018,0.133
+colour (R-G),0.0004,0.0003,0.0082,0.003,1.200
+colour (G-B),0.0006,0.0007,0.0023,0.037,0.334
+SGD-style sum,0.8446,2.0339,15.2889,,
