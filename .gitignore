@@ -1,0 +1,13 @@
+*.h5
+*.pt
+!results_v2/ddpm.pt
+results_v2/fid/
+results_quick/
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+run_log.txt
+desktop.ini
+Thumbs.db
+
+*.npy
