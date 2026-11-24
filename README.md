@@ -8,7 +8,7 @@ We implement a denoising diffusion probabilistic model (DDPM) for galaxy image g
 
 and compare it with a DCGAN baseline on the Galaxy10 DECaLS dataset, downsampled to 32×32 pixels because of the compute budget.
 
-**Group members:** `[Name 1 (roll no.)]`, `[Name 2 (roll no.)]`, `[Name 3 (roll no.)]`
+**Group members:** `[Safia Mussarat (23k-0716)]`, `[Fatimah Riaz (23k-0687)]`, `[Meghna (23k-0507)]`
 **Report:** [`report/`](report/) | **Proposal:** [`proposal/`](proposal/)
 
 ## What is implemented
